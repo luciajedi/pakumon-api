@@ -1,0 +1,34 @@
+{
+  "pokemons": [
+{"id": 1, "num": 1, "name": "bulbasaur", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/1.png", "back":"/img/normal/back/1.png"}, {"front_shiny": "/img/shiny/front/1.png", "back_shiny": "/img/shiny/back/1.png"}],
+"moves": {"MO":["cut"]}
+},
+{"id": 2, "num": 549, "name": "lilligant", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/549.png", "back":"/img/normal/back/549.png"}, {"front_shiny": "/img/shiny/front/549.png", "back_shiny": "/img/shiny/back/549.png"}],
+"moves": {"MO":["cut"]}
+},
+{"id": 3, "num": 1, "name": "bulbasaur", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/1.png", "back":"/img/normal/back/1.png"}, {"front_shiny": "/img/shiny/front/1.png", "back_shiny": "/img/shiny/back/1.png"}],
+"moves": {"MO":["cut"]}
+},
+{"id": 4, "num": 1, "name": "bulbasaur", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/1.png", "back":"/img/normal/back/1.png"}, {"front_shiny": "/img/shiny/front/1.png", "back_shiny": "/img/shiny/back/1.png"}],
+"moves": {"MO":["cut"]}
+},
+{"id": 5, "num": 1, "name": "bulbasaur", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/1.png", "back":"/img/normal/back/1.png"}, {"front_shiny": "/img/shiny/front/1.png", "back_shiny": "/img/shiny/back/1.png"}],
+"moves": {"MO":["cut"]}
+},
+{"id": 6, "num": 1, "name": "bulbasaur", 
+"types": [{"slot": 1, "type": {"code": 1, "name": "grass"}},{"slot": 2, "type": {"code": 2, "name": "poison"}}],
+"image":[{"front":"/img/normal/front/1.png", "back":"/img/normal/back/1.png"}, {"front_shiny": "/img/shiny/front/1.png", "back_shiny": "/img/shiny/back/1.png"}],
+"moves": {"MO":["cut"]}
+}
+]
+}
